@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-random-user-generator/static/css/main.7acaea2f.css",
+    "main.js": "/react-random-user-generator/static/js/main.bc46ddd9.js",
+    "index.html": "/react-random-user-generator/index.html",
+    "main.7acaea2f.css.map": "/react-random-user-generator/static/css/main.7acaea2f.css.map",
+    "main.bc46ddd9.js.map": "/react-random-user-generator/static/js/main.bc46ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc46ddd9.js"
+  ]
+}
